@@ -1,0 +1,7 @@
+img.wp-ytplayer {
+  display: block;
+  position: relative;
+  margin: auto;
+  width: 100%;
+  max-width: 400px;
+}
